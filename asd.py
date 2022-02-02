@@ -1,1 +1,5 @@
+
 print("smecher")
+
+print("fain")
+
