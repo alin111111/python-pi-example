@@ -2,6 +2,7 @@
 
 print ("Hello world")
     # Comentariu
+    # Comentariu 2
 
 def main(msg):
     print(msg)
